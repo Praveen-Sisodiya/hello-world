@@ -1,2 +1,3 @@
 # hello-world
-just a simple repository
+
+this is my first commit example so i am editing this file.
